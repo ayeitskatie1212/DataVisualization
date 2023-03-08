@@ -362,8 +362,11 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.CoreUtils.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Interaction.Toolkit.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Interaction.Toolkit.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Interaction.Toolkit.Samples.StarterAssets.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Management.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Management.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.Editor.ref.dll"
+-r:"Library/Bee/artifacts/1300b0aE.dag/Unity.XR.Oculus.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEditor.XR.LegacyInputHelpers.ref.dll"
@@ -373,6 +376,11 @@
 "Assets/Planet Earth Free/SpinFree.cs"
 "Assets/Scripts/test.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
+"Assets/Unity3DGlobe/Scripts/CameraObrbit.cs"
+"Assets/Unity3DGlobe/Scripts/DataLoader.cs"
+"Assets/Unity3DGlobe/Scripts/DataVisualizer.cs"
+"Assets/Unity3DGlobe/Scripts/FPSCounter.cs"
+"Assets/Unity3DGlobe/Testing-Katie/DisplayDataTest.cs"
 -langversion:9.0
 
 /deterministic
