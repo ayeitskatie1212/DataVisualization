@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/DemoVR.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
